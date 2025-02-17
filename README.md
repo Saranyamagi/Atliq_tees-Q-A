@@ -98,7 +98,7 @@ Total revenue after discount: $XX,XXX
 ---
 
 ## 📸 Screenshots
-![Alt text](screenshot.png)
+![Alt text](Screenshot.png)
 
 ---
 
